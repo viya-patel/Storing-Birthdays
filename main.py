@@ -1,0 +1,18 @@
+# ================================
+# BIRTHDAY LIST
+# ================================
+
+# ---------- PART1: five variables ----------
+# YOUR CODE HERE
+# Make five variables, one for each friend.
+# Each one stores that friend's birthday, like "12 March".
+
+# ---------- PART 2: print that birthdays ----------
+print("BIRTHDAY LIST")
+# YOUR CODE HERE
+# Print each birthday with the friend's name before it.
+
+# ---------- PARt 3: one more friend ----------
+# YOUR CODE HERE
+# Ask for a friend's name and their birthday with input().
+# Save each answer in a variable, then print them.
